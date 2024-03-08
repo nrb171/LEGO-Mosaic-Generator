@@ -24,5 +24,8 @@ Hint: you may want to squint, the effect is much easier to see.
 		- ![](https://i.imgur.com/mcuJutM.png)
 		- ![](https://i.imgur.com/OB2ZTdb.png)
 - [ ] Transparent bricks
+	- ![](https://i.imgur.com/ysN1D1e.png)
+	- ![](https://i.imgur.com/awkE6Ww.png)
+
 - [ ] Final piece calculation and price/piece/complexity optimization
 - [ ] Assembly instructions.
